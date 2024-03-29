@@ -1,0 +1,10 @@
+release/jsoncontroler.o
+release/main.o
+release/loginpage.o
+release/mainlobby.o
+release/roomjsoncontroller.o
+release/rooms.o
+release/qrc_iconsForLobby.o
+release/moc_loginpage.o
+release/moc_mainlobby.o
+release/moc_rooms.o

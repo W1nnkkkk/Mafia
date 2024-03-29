@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/accountIcon.png</file>
+        <file>icons/gamePad.png</file>
+        <file>icons/arrow.jpg</file>
+    </qresource>
+</RCC>
