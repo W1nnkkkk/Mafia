@@ -24,7 +24,7 @@ DataBaseServer::DataBaseServer(QObject *parent)
     usersDb.setHostName("127.0.0.1");
     usersDb.setDatabaseName("Mafia");
     usersDb.setUserName("postgres");
-    usersDb.setPassword("2407");
+    usersDb.setPassword("your pass");
 
     if (usersDb.open()){
         qDebug() << "Opened";
